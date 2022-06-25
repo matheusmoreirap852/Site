@@ -1,0 +1,40 @@
+
+
+.mt-title {
+	max-width: 100%;
+	text-align: center;
+	display: block;
+	/*border: #c0c0c0 1px dotted;*/
+	border-bottom: 1px solid #e6eaea;
+	color: #3db0f7;
+}
+
+.section{
+	padding: 20px;
+}
+
+
+.item-imagens-cabecalho {
+	text-align: center;
+}
+
+.item-imagens-cabecalho img {
+	width: 10%;
+	height: 5%;
+}
+ .item-12{
+	padding: 10px;
+	max-width: 100%;
+	text-align:center;
+}
+
+p-item-12 p{
+	padding: 5px;
+	width: 90%;
+	text-align: left;
+}
+
+.item-10 {
+	max-width: 80%;
+	text-align: center;
+}
