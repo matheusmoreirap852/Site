@@ -1,4 +1,7 @@
-
+.valores{
+	border:1px solid blue;
+	padding: 15px;
+}
 
 .mt-title {
 	max-width: 100%;
