@@ -1,0 +1,3 @@
+function arquivos() {
+    alert("Alo");
+}

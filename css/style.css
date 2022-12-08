@@ -1,5 +1,5 @@
 .valores {
-	border: 5px solid #0094ff;
+	border: 0.5px solid #0094ff;
 	padding: 30px;
 	margin: 30px;
 }
@@ -41,4 +41,27 @@ p-item-12 p{
 .item-10 {
 	max-width: 80%;
 	text-align: center;
+}
+
+.bloco-item {
+	border: 0.5px solid #0094ff;
+	padding: 15px;
+	border-bottom-width: thin;
+}
+
+.demoFont {
+	font-family: Georgia, serif;
+	font-size: 32px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	color: #0094ff;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+.featurette-divider {
+	color: #0094ff;
 }
